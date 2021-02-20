@@ -1,2 +1,2 @@
 # Bluetooth-wifi
-connecter a wifi via terminal Bluetooth  et  commende des relai avec le blynk
+connect to wifi via bluetooth terminal and control relays with the blynk with the Esp32 card
