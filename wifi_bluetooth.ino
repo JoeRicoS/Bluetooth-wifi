@@ -3,7 +3,7 @@
 #include <BlynkSimpleEsp32.h>
 #include "blue.h"
 
-char auth[] = "";
+char auth[] = "WvhUeZxWNM7mnvFZY25rLnQNw6KLr6ge";
 int butStatus = 0, lastbutStatus = 0;
 int bloque = 1, frmnt = 1;
 blue blue;
